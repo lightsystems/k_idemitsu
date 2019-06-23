@@ -1,5 +1,6 @@
 ## Keisuke Idemitsu
-![](./img/avatar.JPG){: height="180px" width="180px"}
+
+<img src="./img/avatar.JPG" width="180px">
 
 ### Masters Candidate 2018/19 in [*Applied Social Data Science*](http://www.lse.ac.uk/Methodology/Study/MSc-Applied-Social-Data-Science "ASDS") at the London School of Economics
 
