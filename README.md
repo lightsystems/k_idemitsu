@@ -8,5 +8,5 @@
   - [Keisuke Idemitsu (RIETI consulting fellow)](https://www.rieti.go.jp/users/idemitsu-keisuke/index_en.html "RIETI page")
   - [Download my CV](http://lightsystems.github.io/k_idemitsu/static/CV_IDEMITSU.pdf "CV download")
 
-## [Research examples](http://lightsystems.github.io/k_idemitsu/research.html "Research")
-## [Talks](http://lightsystems.github.io/k_idemitsu/talks.html "Talks")
+## [Research examples](http://lightsystems.github.io/k_idemitsu/research.md "Research")
+## [Talks](http://lightsystems.github.io/k_idemitsu/talks.md "Talks")
