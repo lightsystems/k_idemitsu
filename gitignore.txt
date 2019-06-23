@@ -1,0 +1,5 @@
+*.Rmd
+*.log
+*.gz
+*.cls
+*.DS_Store
