@@ -11,6 +11,6 @@
 
 ## [Research examples 1: Sentiment analysis on Japanese local area](http://lightsystems.github.io/k_idemitsu/research/LocalJapan.html "Research 1")
 
-## [Blogs](http://lightsystems.github.io/k_idemitsu/blogs/AgileHR.html "Blogs")
+## [Blogs](http://lightsystems.github.io/k_idemitsu/blogs/agilehr-community.html "Blogs")
 
 ## [Talks](http://lightsystems.github.io/k_idemitsu/talks.html "Talks")
