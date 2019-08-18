@@ -15,7 +15,7 @@
 ## [Research examples 2: #Revokearticle50 movement in March 2019](http://lightsystems.github.io/k_idemitsu/research/50revoke.html "Research 2")
 <img src="./img/00003c.png" width="180px">
 
-## [Research examples 3: Teenagers' trends](http://lightsystems.github.io/k_idemitsu/research/teeenagers.html "Research 3")
+## [Research examples 3: Teenager trends](http://lightsystems.github.io/k_idemitsu/research/teenagers.html "Research 3")
 <img src="./img/00002b.png" width="180px">
 
 ## [Blogs](http://lightsystems.github.io/k_idemitsu/blogs/agilehr-community.html "Blogs")
