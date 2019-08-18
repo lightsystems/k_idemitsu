@@ -10,6 +10,10 @@
   - [Download my CV](http://lightsystems.github.io/k_idemitsu/static/CV_IDEMITSU.pdf "CV download")
 
 ## [Research examples 1: Sentiment analysis on Japanese local area](http://lightsystems.github.io/k_idemitsu/research/LocalJapan.html "Research 1")
+<img src="./img/00001d.JPG" width="180px">
+
+## [Research examples 2: #Revokearticle50 movement in March 2019](http://lightsystems.github.io/k_idemitsu/research/50revoke.html "Research 1")
+<img src="./img/00003c.JPG" width="180px">
 
 ## [Blogs](http://lightsystems.github.io/k_idemitsu/blogs/agilehr-community.html "Blogs")
 
