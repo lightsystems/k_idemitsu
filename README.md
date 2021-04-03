@@ -2,7 +2,8 @@
 
 <img src="./img/avatar.JPG" width="180px">
 
-### Masters Candidate 2018/19 in [*Applied Social Data Science*](http://www.lse.ac.uk/Methodology/Study/MSc-Applied-Social-Data-Science "ASDS") at the London School of Economics
+### MSc in [*Management of Information Systems and Digital Innovation*](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2021/MSc-Management-Information-Systems-and-Digital-Innovation "MISDI") at the London School of Economics (2019/20 Distinction)
+### MSc in [*Applied Social Data Science*](http://www.lse.ac.uk/Methodology/Study/MSc-Applied-Social-Data-Science "ASDS") at the London School of Economics (2018/19 Distinction)
 
   - [k.idemitsu@lse.ac.uk](mailto:k.idemitsu@lse.ac.uk "email")
   - [Keisuke Idemitsu (github)](http://www.github.com/lightsystems/ "Github page")
