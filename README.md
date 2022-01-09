@@ -2,10 +2,10 @@
 
 <img src="./img/avatar.JPG" width="180px">
 
-### Career
-### Deputy Director in Digital Transformation Office, [*An energy company in Osaka, Japan*] (https://www.osakagas.co.jp/en/)
+### [Career]
+### Deputy Director in Digital Transformation Office, [*An energy company in Osaka, Japan*](https://www.osakagas.co.jp/en/)
 
-### Education
+### [Education]
 ### MSc in [*Management of Information Systems and Digital Innovation*](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2021/MSc-Management-Information-Systems-and-Digital-Innovation "MISDI") at the London School of Economics (2019/20 Distinction)
 ### MSc in [*Applied Social Data Science*](http://www.lse.ac.uk/Methodology/Study/MSc-Applied-Social-Data-Science "ASDS") at the London School of Economics (2018/19 Distinction)
 
@@ -16,7 +16,7 @@
 
 ### [Research paper 1](https://doi.org/10.1145/3463677.3463723 "Paper 1")
 ### Navigating Public Values: How the Social Construction of Technology among Public Managers Defines the Nature of Public Values: Findings from a Japanese e-Government Project
-#### Supplemental materials(https://github.com/lightsystems/Navigating-Public-Values "Supplement 1")
+#### [Supplemental materials](https://github.com/lightsystems/Navigating-Public-Values "Supplement 1")
 
 ### [Research paper 2](https://www.lse.ac.uk/management/assets/documents/ischannel/Final-Print-iSChannel-Volume-15.pdf "Paper 2")
 ### Social Media as a Data Source in the Public Sector: Socio-Technical Challenges for Economic Indicators
